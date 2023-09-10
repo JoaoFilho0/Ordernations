@@ -1,4 +1,4 @@
-public class Main
+public class MergeSort
 {
     public static void main(String[] args) {
         int[] array = {1,9,2,6,7,4,22,64,85,3};
